@@ -89,3 +89,13 @@ Afternoon code||||<a href="https://github.com/learn-co-students/ds-atlanta-06_24
 |Afternoon code|||||
 | Afternoon Video||||
 
+# Week 10
+|                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
+|:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
+| Warmup |
+| Morning code|||<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_5/week_2/day_1/Dimension%20Reduction.ipynb"> Principal Component</a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_5/week_1/day_2/Random%20Forest.ipynb">Random Forest</a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_5/week_1/day_3/SVM.ipynb">Support Vector Machines</a> <a href=""> </a>
+| Morning Video|||<a href= "https://youtu.be/YCVH6RUF6vY"> Prinicpal Component</a> <a href=""> </a>|<a href= "https://youtu.be/Y3DHp00QCIk"> Random Forest</a> <a href=""> </a>|<a href= "https://youtu.be/UzbcRx-nlbw"> Support Vector Machines</a> <a href=""> </a>
+|Afternoon code|||||
+| Afternoon Video||||
+
+
