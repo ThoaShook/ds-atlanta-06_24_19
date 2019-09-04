@@ -93,7 +93,7 @@ Afternoon code||||<a href="https://github.com/learn-co-students/ds-atlanta-06_24
 |                 | One                                       | Two                                       | Three                                     | Four                                      | Five                                      |
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
 | Warmup |
-| Morning code|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_5/week_2/day_1/Dimension%20Reduction.ipynb"> Principal Component</a> <a href=""> </a>||<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_5/week_2/day_6/pyspark-intro_ab_sydney.ipynb">PySpark</a> <a href=""> </a>
+| Morning code|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_5/week_2/day_1/Dimension%20Reduction.ipynb"> Principal Component</a> <a href=""> </a>||<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_5/week_2/day_6/pyspark-intro_ab_sydney.ipynb">PySpark</a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_5/week_2/day_7/recommendation_systems_ab_sydney.ipynb">PySpark</a> <a href=""> </a>
 | Morning Video|<a href= "https://youtu.be/YCVH6RUF6vY"> Prinicpal Component</a> <a href=""> </a>|
 |Afternoon code|||||
 | Afternoon Video||||
