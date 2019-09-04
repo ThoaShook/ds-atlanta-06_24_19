@@ -68,6 +68,6 @@ Afternoon code||||<a href="https://github.com/learn-co-students/ds-atlanta-06_24
 | Warmup |
 | Morning code||<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_4/week_1/day_1/Linear%20Regression.ipynb"> Linear Regression </a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_4/week_1/day_2/Multiple%20Regression.ipynb"> Multiple Regression </a> <a href=""> </a>|Project|Project|
 | Morning Video||<a href= "https://youtu.be/Z8568X_VUWI"> Linear Regression</a> <a href=""> </a>|<a href= "https://youtu.be/hHCFIwZBH3g"> Multiple Linear Regression</a> <a href=""> </a>||||
-|Afternoon code|||||
+|Afternoon code|||<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_4/week_1/day_2/Multiple%20Regression.ipynb"> Multiple Regression </a> <a href=""> </a>||
 | Afternoon Video|
 
