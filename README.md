@@ -76,7 +76,7 @@ Afternoon code||||<a href="https://github.com/learn-co-students/ds-atlanta-06_24
 |:----------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|:------------------------------------------|
 | Warmup |
 | Morning code|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_4/week_2/day_1/Logistic%20Regression.ipynb"> Logistic Regression </a> <a href=""> </a>||<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_4/week_2/day_3/03.11-Working-with-Time-Series.ipynb">Working with Time Series Data</a> <a href=""> </a>|<a href= "https://github.com/learn-co-students/ds-atlanta-06_24_19/blob/master/module_4/week_2/day_4/time-series-analysis-NYC(Modified).ipynb">Time Series Analysis</a> <a href=""> </a>||
-| Morning Video|<a href= "https://youtu.be/vmbo-zDvrgg"> Logistic Regression</a> <a href=""> </a>||<a href= "https://youtu.be/P0dOJNurFs8"> Working with Time Series Data</a> <a href=""> </a>||<a href= "https://youtu.be/aXUzn8Js7Oc"> Time Series Analysis</a> <a href=""> </a>||
+| Morning Video|<a href= "https://youtu.be/vmbo-zDvrgg"> Logistic Regression</a> <a href=""> </a>||<a href= "https://youtu.be/P0dOJNurFs8"> Working with Time Series Data</a> <a href=""> </a>|<a href= "https://youtu.be/aXUzn8Js7Oc"> Time Series Analysis</a> <a href=""> </a>||
 |Afternoon code|||||
 | Afternoon Video||||
 
